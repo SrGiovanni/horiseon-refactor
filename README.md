@@ -29,7 +29,7 @@ THEN I find a concise, descriptive title
 
 ## Screenshots
 
-![Screenshot of page](./assets\images\Screenshot-1.PNG)
+![Screenshot of page](./assets/images/Screenshot-1.PNG)
 
 ## DEPLOYED WEBSITE:
 
