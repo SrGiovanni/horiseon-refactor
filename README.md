@@ -4,13 +4,6 @@
 
 Refactor landing page to increase accessibiity through HTML5 semantic elements.
 
-## What changed?
-
-Refactored div tags to HTML5 semantic elements <br/>
-Corrected CSS selectors to match HTML tag changes <br />
-Condensed CSS selectors to remove repeat code <br />
-Grouped CSS selectors by targeted HTML elements and added comments to improve readibility <br />
-
 ## Acceptance Criteria
 
 ```
@@ -26,6 +19,17 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## What changed?
+
+- Refactored div tags to HTML5 semantic elements <br/>
+- Corrected CSS selectors to match HTML tag changes <br />
+- Condensed CSS selectors to remove repeat code <br />
+- Grouped CSS selectors by targeted HTML elements and added comments to improve readibility <br />
+
+## Screenshots
+
+![Screenshot of page](./assets\images\Screenshot-1.PNG)
 
 ## DEPLOYED WEBSITE:
 
